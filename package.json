@@ -40,11 +40,11 @@
     "prompts": "^2.4.2",
     "react": "^17.0.2",
     "react-app-polyfill": "^3.0.0",
-    "react-dev-utils": "^12.0.0",
     "react-dom": "^17.0.2",
     "react-refresh": "^0.11.0",
     "resolve": "^1.20.0",
     "resolve-url-loader": "^4.0.0",
+    "sass": "^1.49.9",
     "sass-loader": "^12.3.0",
     "semver": "^7.3.5",
     "source-map-loader": "^3.0.0",
@@ -135,5 +135,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "react-dev-utils": "^12.0.0"
   }
 }
